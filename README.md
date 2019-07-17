@@ -17,6 +17,8 @@ It uses the following libraries:
   - twython
   - tkinter
   
-The tamagotchi pet is displayed on an Adafruit 64x64 RGB Matrix Display run off the display bonnet and a pi zero w
-Most of the data is collected on a pi 4 (1GB)
-The twython streamer is ran off a pi 3A+
+The tamagotchi pet is displayed on an Adafruit 64x64 RGB Matrix Display run off the display bonnet and a pi zero w.
+
+Most of the data is collected on a pi 4 (1GB).
+
+The twython streamer is ran off a pi 3A+.
