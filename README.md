@@ -16,6 +16,7 @@ It uses the following libraries:
   - InstagramAPI (unofficial)
   - twython
   - tkinter
+  - adafruit-io
   
 The tamagotchi pet is displayed on an Adafruit 64x64 RGB Matrix Display run off the display bonnet and a pi zero w.
 
