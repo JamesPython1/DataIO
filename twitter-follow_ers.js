@@ -1,10 +1,10 @@
 const  TwitterClient = require('easy-twitter');
 var fs = require('file-system');
 const twitter = new TwitterClient({
-  consumer_key: 'lOF160rWuee0bVX54mXuiieCa',
-  consumer_secret: 'HscSxGGA5QmBZ7OgAqiuwNIG4SUxVU3aO3bH1jLkKzfHJEtOIj',
-  access_token_key: '1059104460956413953-jEjGQdKngDvVuoY5rtrA3aDhW1O31D',
-  access_token_secret: 'Kw4A6hJ7R6zeZjbfuxmmJeYUMmIHbTcFtX0jE82VjxIUg',
+  consumer_key: 'your-consumer-key-here',
+  consumer_secret: 'your-consumer-secret-here',
+  access_token_key: 'your-accesss-token-here',
+  access_token_secret: 'your-access-token-secret-here,
 })
 var a_o_foll = 0;
 twitter.getCounts('roboti2c')
